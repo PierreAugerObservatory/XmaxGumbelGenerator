@@ -1,10 +1,10 @@
-# XmaxGumbelGenerator
-A C++ software program to generate cosmic ray Xmax distributions for a given energy, mass and hadronic model based on a Gumbel model parametrization derived from CONEX simulated showers. It was developed within the Pierre Auger Observatory project and used in the Auger analysis to generate Xmax simulated data in a fast way.
-It is distributed for research use only under the GNU General Public License v3.0.
-
 <p align="left">
   <img src="logo.png" alt="XmaxGumbelGenerator sample output"/>
 </p>
+
+# XmaxGumbelGenerator
+A C++ software program to generate cosmic ray Xmax distributions for a given energy, mass and hadronic model based on a Gumbel model parametrization derived from CONEX simulated showers. It was developed within the Pierre Auger Observatory project and used in the Auger analysis to generate Xmax simulated data in a fast way.
+It is distributed for research use only under the GNU General Public License v3.0.
 
 ## **Credits**
 If you use XmaxGumbelGenerator for your research, please acknowledge it in your papers by citing the following references:
